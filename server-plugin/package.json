@@ -1,0 +1,16 @@
+{
+  "name": "sillytavern-character-manager",
+  "version": "1.0.0",
+  "description": "A SillyTavern plugin for managing character tags and categories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sillytavern", "plugin", "character", "tags", "categories"],
+  "author": "Ameowra",
+  "license": "MIT",
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}
+
